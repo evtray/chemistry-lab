@@ -1,0 +1,14 @@
+ver video del mechero
+https://www.youtube.com/watch?v=pg9V5VczOjI
+
+--- LAB QG1 1S2026 - Guía completa ---
+• GUIA_ESTUDIO_COMPLETA.md: Manual técnico, P1, P2, P3, informe parcial, glosario
+• GUIA_ESTUDIO_PRACTICA_3.md: Enfoque en Práctica 3
+
+• App interactiva: quimica-lab-app/ (Vue 3 + Tailwind v4)
+  - Quiz: 28 preguntas (P1, P2, P3, normas) con filtro
+  - Flashcards: 28 tarjetas por categoría
+  - Glosario: términos con búsqueda
+  - Calculadora: ρ, GE, % v/v
+  - Normas: manual técnico, seguridad, emergencias
+  - Ejecutar: cd quimica-lab-app && npm run dev
